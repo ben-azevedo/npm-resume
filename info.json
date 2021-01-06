@@ -1,0 +1,64 @@
+{
+  "name": "Ben Azevedo",
+  "phoneNumber": "5093313244",
+  "website": "https://github.com/ben-azevedo",
+  "linkedin": "https://www.linkedin.com/in/ben-azevedo/",
+  "github": "ben-azevedo",
+  "email": "ben_azevedo@outlook.com",
+  "resume": "https://pdfhost.io/v/PGyx9u56m_BenAzevedo_UW_ElectricalEngineering2pdf.pdf",
+  "education": {
+    "universityOfWashington": "While at UW I was an active member in the Phi Gamma Delta Fraternity, Husky Boxing Team, UW Formula Motorsports, UW Engineering STARS Program, Sensors, Electronics, and Automation Lab and the Electrical and Computer Engineering Department. My in-major coursework covered the following topics: Software Development, Data Structures & Algorithms, Computer Architecture, Data Analytics, Robotics/Control Systems, Signal Processing, Devices & Circuits, Digital Circuits, Energy Systems, Hardware Development, and CAD Drafting.",
+    "generalAssembly": "By completion of this 12-week program in March of 2021, I plan to have: developed full-stack applications with technologies such as Ruby on Rails, Python with Django, Express with Node.js, and AWS products, built full-stack applications by leveraging common design and architectural patterns like model–view–controller (MVC) and Representational State Transfer (REST), Safely modeled and stored data in SQL and NoSQL databases, created my own API's from scratch, conducted Front-end web application development with React, and built upon my data structures and algorithms knowledge specifically implemented in Java, JavaScript, and Python."
+  },
+  "relevantExperience": {
+    "lockheedMartin": "Through the use of neural networks and data-driven algorithms, I developed a seamless user interface to analyze the remaining useful life of metal oxide semiconductor field effect transistors. Worked with a number of data analytics tools including: Apache Spark, AWS S3, AWS Elastic Beanstalk, Dask, Flask, InfluxDB, React, and Vega.",
+    "boeing": "As a member of the Facilities and Asset Management Team, I split my time between supporting the electrical engineering group and being the assistant to the software logistics lead. Some of my achievements included: designing and implementing a prototype software system for the tracking of parts throughout the Boeing Renton Plant through the use of RFIDs, RFID checkpoints, Boeing internal task management software, hardware tools, and a developed internal web application, reconfiguring power distribution system throughout break rooms, tool rooms, and the 737-8, 9,10 MAX floor assembly space for Bay Integration Project that supported production rate increase from 42 to 58 planes a month, and redesigning power distribution layout for on-site Water Treatment Plant remodel.",
+    "uwFormulaMotorsports": "During my time at Formula Motorsports, I have had the opportunity of working on the electric powertrain, electronics, and chassis teams. Although different, each has been the same in their process of iterative design, manufacturing, and testing. Over the past two years I have helped develop and manufacture a 700V, 80kW DC-AC automotive inverter, designed hardware and software for the 24/12V power distribution unit that routes power to all on-board low voltage sub systems (ABS, accumulator, ECU, etc.), designed and manufactured an ergonomic, lightweight formula one-style steering wheel with functionality to adjust brake bias (front and rear), torque vectoring, traction control, radio control, five separate driver modes, and the drag reduction system, and reconfigured the team website, providing a more thorough user experience for prospective engineering students.",
+    "uwece": "During my software and hardware course work I developed a 5-stage pipelined computer, a route finding application similar to Google Maps, a predictive texting program, recreated custom versions of various early arcade games, and other projects.",
+    "sealLab": "Working under a PhD student, me and a small group of students designed and manufactured a parallel plate fringing electric field sensor to detect molecular damage in composites for the United States Air Force. We also overhauled circuit configuration for an ammonia nanotube sensor leading to a 100-fold increase in sensitivity.",
+    "protoype": "Over my five years at UW I conducted a number of prototype projects on my own accord. For each project I designed, manufactured, and tested the product. They included a custom version of the popular game ‘Bop-It!’, a custom V12 engine, a Chinese festival dragon automaton, and an RC Helicopter.",
+    "sierraConstruction": "As the handyman for the owner, I completed daily miscellaneous construction, landscaping, electrical, mechanical, and operational tasks. Examples of these tasks include rebuilding a gravity-fed sewer system, installing a yard irrigation and lighting system with electronic timing, and removing acres of invasive species such as Himilayan Blackberry, English Ivy, and various tree species. I was also part of a four-man crew that renovated an early 20th century homestead into the Holly Creek Bed & Breakfast in Woodinville, WA.",
+    "fijiPhilanthropy": "My co-chairman and I organized a Guinness World Record attempt for the longest marathon of playing 5-on-5 Wiffleball, raising over $60,000 for, a local Seattle charity, Summer Search.",
+    "dairy": "Managed a team of 15 employees on two farms, who worked on 700+ acres of agricultural crops and nearly 4000 dairy cows that produced on average 500,000+ gallons of milk per month. Daily responsibilities fell within the realm of waste management, veterinary science, surgery, mechanical/electrical work, large and small machinery operation, agricultural management, and construction."
+  },
+  "projects": {
+    "5stagePipelineComputer": "Non-hardware based computer that processes and executes ARM32 and ARM64 machine code written in Verilog and tested on ModelSim.",
+    "routeOptimizer": "Web-based application using Dykstra’s and A* algorithms to find the most efficient route between mapped locations written in CSS, HTML, Java, and JavaScript.",
+    "t9": "Predictive trie texting program written in C on LINUX.",
+    "wackIt": "Custom version of the popular game ‘Bop-It!,’ with designed 3D printed components, mechanical actuators, an interactive touch screen, and a coordinated android application written in C with ARM protocols.",
+    "snake": "Simplified version of the original 1986 arcade game Blockade using an FPGA, a custom circuit board, and a 64 bit LED array written in Verilog, tested on ModelSim.",
+    "others": "General Assembly projects will be added soon..."
+  },
+  "awards": [
+    "Eagle Scout Award",
+    "Air Force Mathematics and Science Award",
+    " Washington State Scholar Award & Washington State Honors Award"
+  ],
+  "proficientTechnologies": [
+    "Java", 
+    "Python", 
+    "VHDL", 
+    "Verilog", 
+    "C", 
+    "C++", 
+    "JavaScript", 
+    "CSS", 
+    "HTML", 
+    "Matlab", 
+    "SQL", 
+    "ROS",
+    "React",
+    "Node"
+  ],
+  "otherSkills": [
+      "Painting",
+      "Piano",
+      "Marksmanship",
+      "Street Cred"
+  ],
+  "languages": [
+    "English",
+    "Portuguese",
+    "Spanish"
+  ]
+}
